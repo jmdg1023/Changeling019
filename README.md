@@ -6,7 +6,7 @@
 ## Links to Repo📌
 
 🔸 GitHub Repository [link](https://github.com/jmdg1023/Changeling019)
-🔸 Heroku [link]()
+🔸 Heroku [link](https://salty-dusk-22856.herokuapp.com/)
 
 # Progressive Web Applications (PWA) Challenge: Text Editor
 
@@ -51,7 +51,9 @@ THEN I should have proper build scripts for a webpack application
 ```
 
 ## Screenshots
-
+![Screenshot on Heroku IDB](./client/dist/assets/IDB.jpg)
+![Screenshot on Heroku IDB](./client/dist/assets/Install.jpg)
+![Screenshot on Heroku IDB](./client/dist/assets/desktopicon.jpg)
 
 ## Installation
 
