@@ -71,7 +71,7 @@ THEN I should have proper build scripts for a webpack application
          * npm install babel (Babel)
          * npm install --save-dev css-loader (CSS-loader)
          * npm install concurrently --save (run multiple commands concurrently.) (Concurrently)
-         * npm npm install idb (IndexedDB)
+         * npm install idb (IndexedDB)
 
 * The required modules are bundled in the package.json file and at CLI or integrated terminal type in **npm install**, the modules will be installed.       
 
